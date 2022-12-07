@@ -8,4 +8,4 @@ def square_matrix_simple(matrix=[]):
             for x in row:
                 squared.append(x ** 2)
             result.append(squared)
-    return 
+    return result
