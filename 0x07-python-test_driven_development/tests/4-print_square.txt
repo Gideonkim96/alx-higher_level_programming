@@ -1,5 +1,3 @@
-
-
 doctest ``4-print_square`` module
 =================================
 
